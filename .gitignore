@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.virtual_documents/
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Data files (optional – uncomment if you don't want to track CSVs)
+*.csv
+
+Neuron.ipynb
